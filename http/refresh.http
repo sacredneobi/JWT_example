@@ -1,0 +1,2 @@
+GET http://127.0.0.1:4000/api/auth/refresh?userId=9
+authorization: SACRED eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5IiwiaWF0IjoxNjU5NTU3ODE3LCJleHAiOjE2NTk1OTM4MTd9.2In6vqRF21uVZ3xI9-ElZvAweyjVJqnbSCVmux7GomY
